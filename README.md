@@ -62,6 +62,7 @@ You'll need Python 3.8+ installed on your system.
 ```bash
 git clone [YOUR_REPOSITORY_URL]
 cd [YOUR_REPOSITORY_NAME]
+```
 
 ### 3. Install Dependencies
 
@@ -69,6 +70,7 @@ Install all the necessary Python libraries using pip:
 
 ```bash
 pip install streamlit pandas numpy scikit-learn plotly matplotlib seaborn
+```
 
 ### 4. Run the App
 
@@ -76,6 +78,7 @@ Launch the Streamlit application from your terminal:
 
 ```bash
 streamlit run app.py
+```
 
 The application will automatically open in your default web browser, usually at the address http://localhost:8501.
 
